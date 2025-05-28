@@ -4,3 +4,5 @@ Link to the poster: https://www.canva.com/design/DAGoAbCVehE/myhg-_ufGkSV3qvjh4i
 
 Kaggle datasets:
 NERC: https://www.kaggle.com/datasets/rajnathpatel/ner-data
+
+![Alt text](image.png?raw=true "NERC visualization for the text that starts with 'when visualizing'")
