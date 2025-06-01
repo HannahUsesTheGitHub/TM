@@ -1,5 +1,11 @@
 # TM
 
+Setup and experiments for NER and Sentiment Analysis are in projectTM.ipynb
+
+Topic Analysis models and experiments can be found in Topic Analysis SVM and MNB.ipynb and Topic Analysis with RoBERTa
+
+All necessary datasets are in the repository, ner.csv for the NERC experiments and train.csv for the sentiment and topic analysis.
+
 Kaggle datasets:
 
 NERC: https://www.kaggle.com/datasets/rajnathpatel/ner-data
