@@ -1,8 +1,9 @@
 # TM
 
-Link to the poster: [https://www.canva.com/design/DAGoAbCVehE/myhg-_ufGkSV3qvjh4i00g/edit?utm_content=DAGoAbCVehE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGpGeNproY/Tu1ExYpQEKt4uSUTIr4aXA/edit?utm_content=DAGpGeNproY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 Kaggle datasets:
 NERC: https://www.kaggle.com/datasets/rajnathpatel/ner-data
-
+Sentiment and Topic:
+[1] https://www.kaggle.com/datasets/meetnagadia/amazon-kindle-book-review-for-sentiment-analysis?select=preprocessed_kindle_review+.csv
+[2] https://www.kaggle.com/datasets/fahadrehman07/movie-reviews-and-emotion-dataset
+[3] https://www.kaggle.com/datasets/carlosramosn/sentiment-analisis-sports
 ![Alt text](image.png?raw=true "NERC visualization for the text that starts with 'when visualizing'")
